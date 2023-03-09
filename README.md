@@ -21,7 +21,7 @@ Extracted CSV will have total 4 columns.Those are:
 - Location
 - Date
 ## Data Sample
-![ALT](https://github.com/Tareq553/Scraping-Project-2/blob/main/Data%20sample%20image.png))
+![ALT](https://github.com/Tareq553/Scraping-Project-2/blob/main/Data%20sample%20image.png)
 
 
 
