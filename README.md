@@ -12,7 +12,7 @@ Aspiring data analysts need to have a strong understanding of how to collect and
 
 ## Project Details
 
-It's a Web Scraping Project using Python and [Selenium](https://www.javatpoint.com/selenium-tutorial), an open-source tool that automates web browsers and can be used as a scraping tool. The goal of the project is to extract Job information from [Indeed](https://www.reed.co.uk/](https://www.indeed.com/), a popular job site and save it to a CSV file for further analysis.
+It's a Web Scraping Project using Python and [Selenium](https://www.javatpoint.com/selenium-tutorial), an open-source tool that automates web browsers and can be used as a scraping tool. The goal of the project is to extract Job information from [Indeed](https://www.indeed.com/), a popular job site and save it to a CSV file for further analysis.
 
 ## Extracted Data information
 Extracted CSV will have total 4 columns.Those are:
